@@ -9,4 +9,6 @@ public class P467 {
 		
 		System.out.println(Arrays.equals(ar1, ar2));
 	}
+//	hello!!
+	
 }
